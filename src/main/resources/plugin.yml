@@ -1,0 +1,6 @@
+name: BedFix-vanilla-Synapse
+main: me.petterim1.bedfixvanilla.Main
+version: "${pom.version}"
+api: ["1.0.0"]
+author: PetteriM1
+load: POSTWORLD
